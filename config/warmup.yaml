@@ -1,0 +1,5 @@
+warmup:
+  session_duration_minutes: 20
+  max_scroll_actions: 50
+  max_profile_visits: 10
+  max_reactions: 15
